@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# News-Bird - React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A React based news application that fetch the top headlines from the News API.
 
 ## Available Scripts
 
